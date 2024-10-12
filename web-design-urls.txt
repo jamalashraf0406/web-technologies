@@ -1,0 +1,8 @@
+icons:
+https://heroicons.com/
+
+colors:
+https://yeun.github.io/open-color/
+
+images:
+https://unsplash.com/

@@ -1,0 +1,14 @@
+{
+  "name": "website-01",
+  "version": "1.0.0",
+  "description": "Landing Page for the website-01",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/main.css -w"
+  },
+  "author": "Jamal Ashraf",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.79.4"
+  }
+}
